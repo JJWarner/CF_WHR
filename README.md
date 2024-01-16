@@ -1,28 +1,25 @@
-<img src="https://cdn.freebiesupply.com/logos/large/2x/instacart-1-logo-png-transparent.png" alt="Man happy with money" width=200>
+<img src="https://png.pngtree.com/png-clipart/20220125/original/pngtree-happy-woman-under-a-money-rain-png-image_7229773.png" alt="Man happy with money" width=200>
 
-## Instacart Analysis
+## Beyond GDP: Global Prosperity and Happiness
 ---
-Career Foundry project illistrating proficiency in Python utilizing diverse libraries for advanced data analysis and visualization.
-Data sourced from Instacart, encompassing CSV files for Orders, Products, and Departments, forms the foundation of this project. 
+Final project for Career Foundry illistrating proficiency in Python and Tableau Public utilizing diverse libraries for advanced data analysis and visualization.
+Data sourced was sourced from the World Happiness report (a Kaggle dataset) and the World Bank Developement Indicators. Additional information on these data sources can be found here.[here]([https://github.com/JJWarner/CF_WHR/tree/main/Data/Original%20Data/Data%20Source]).
 
 ---
 ### Contents: 
-<b>Scripts</b>: Contains Python scripts used in data cleaning and visualization process. Scripts are numbered in the order they were created in the analysis process.
+<b>Scripts</b>: Contains Python scripts used in data cleaning, visualization process, and analysis process (including time series and machine learning). Scripts are numbered in the order they were created in the analysis process.
 To launch to notebook, open terminal and run the command: 
 <ul><li>Importing data: <pre> jupyter notebook importData.ipynb</pre></ul></li>
 
-<b>Sent to Client</b>: 
+<b>Final Reports</b>: 
 <ul>
-<li><b> Final Project</b>:  Comprehensive information pertaining to data citations, the intricacies of data wrangling and consolidation processes, as well as key business insights, is elaborated upon in the accompanying client brief.</li>
-<li><b>Excel Crosstabs</b></li>
+<li><b> Final_report</b>:  Comprehensive information pertaining to data citations, the intricacies of data wrangling and consolidation processes, questions and hypotheses defined  during the courses of this process as well as showcases Python visuals. Additionally a discussion of ethical considerations, limitations, and future research can be found here. </li>
 </ul>
 
-<b>Analysis</b>: Incorporates visualizations crafted utilizing Seaborn.
+<b>Visuals</b>: Incorporates visualizations crafted utilizing Python.
 
-<b>Results</b>: The analysis and profiling of data were systematically conducted to extract pivotal demographic insights concerning the Instacart consumer base. These insights served as the cornerstone for formulating strategic business recommendations. A detailed exposition of these recommendations can be found in the project summary [here](https://github.com/JJWarner/CF_Instacart-Analysis/blob/main/Client%20Facing%20Documents/Final_report.xlsx).
+<b>Data</b>: Includes the original data sets, prepared data sets, and information on the source of the data sets. 
 
-<b>Limitations</b>:The project's nature presents challenges in grasping the context around the dataset and its business insights. Additionally, limitations in available computing power posed difficulties in conducting seamless visual analysis on the fully completed dataset. As a workaround, data visuals were crafted using subsets of data, as documented in the available Python scripts
+<b>Tools</b>: Python, Pandas, Numpy, Seaborn, Matplotlib, Folium, JSON, sklearn, pylab, statsmodels, and Tableau Public.
 
-<b>Tools</b>: Python, Pandas, Numpy, Seaborn, Matplotlib, Excel.
-
-<b>Skills</b>: Data Wrangling and Merging, Derving Variables, Grouping Data, Aggregating Data, Reporting in Excel, Population Flows, Data Cleaning, Data Analysis, Descriptive Statistics, Story Telling, Presentation, Data Visualization.
+<b>Key Skills</b>: Data wrangling and concating in Python, Data Analysis, Descriptive Statistics, machine learning (supervised and unsupervised), time series analysis Story Telling, Presentations, Data Visualization, dashboards.
