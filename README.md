@@ -28,4 +28,4 @@ To launch to notebook, open terminal and run the command:
 ---
 ### Additional Content: 
 
-<b>Tableau Public</b>: This project was accompanied by a Tableau Public dashboard that can be found [here](https://public.tableau.com/app/profile/jessica.warner1887/viz/MoneyandHappinessCFFinalProject/MoneyCantbuyHappiness) 
+<b>Tableau Public</b>: This project was accompanied by a Tableau Public dashboard that can be found [here](https://public.tableau.com/app/profile/jessica.warner1887/viz/MoneyandHappinessCFFinalProject_17054558186940/MoneyCantbuyHappiness?publish=yes) 
